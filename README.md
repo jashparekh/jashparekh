@@ -4,6 +4,7 @@ I am **Jash Parekh** working as **Software Engineer / Tech Lead @ [Wayfair](http
 
 Author of Python Package: **[GBQ](https://pypi.org/project/gbq/)**
 
+Author Github Action: **[Bigquery Github Action](https://github.com/jashparekh/bigquery-action)**
 Author Buildkite Plugin: **[Bigquery Buildkite Plugin](https://github.com/wayfair-incubator/bigquery-buildkite-plugin)**
 
 [![Downloads](https://pepy.tech/badge/gbq)](https://pepy.tech/project/gbq)
