@@ -9,4 +9,3 @@ Author Github Action: **[Bigquery Github Action](https://github.com/marketplace/
 Author Buildkite Plugin: **[Bigquery Buildkite Plugin](https://github.com/wayfair-incubator/bigquery-buildkite-plugin)**
 
 [![Downloads](https://pepy.tech/badge/gbq)](https://pepy.tech/project/gbq)
-[![Downloads/Week](https://pepy.tech/badge/gbq/week)](https://pepy.tech/project/gbq)
