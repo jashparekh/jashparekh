@@ -8,6 +8,6 @@ Author Github Action: **[Bigquery Github Action](https://github.com/marketplace/
 
 Author Buildkite Plugin: **[Bigquery Buildkite Plugin](https://github.com/wayfair-incubator/bigquery-buildkite-plugin)**
 
-Author Buildkite Plugin: **[Cloud Functions Buildkite Plugin](https://github.com/wayfair-incubator/cloud-functions-buildkite-plugin)**
+Author Github Action: **[Cloud Functions Github Action](https://github.com/marketplace/actions/google-cloud-function-deploy-code-action-for-github-action)**
 
-[![Downloads](https://pepy.tech/badge/gbq)](https://pepy.tech/project/gbq)
+Author Buildkite Plugin: **[Cloud Functions Buildkite Plugin](https://github.com/wayfair-incubator/cloud-functions-buildkite-plugin)**
